@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: gps3z9huw-dotnet-basic-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/gps3z9huw-dotnet-basic
